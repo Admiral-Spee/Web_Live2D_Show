@@ -87,4 +87,6 @@ const lrcText = `
 
 ## ⚠️ Notes
 
-本项目中使用的模型、音频及图片文件仅供展示，版权归原作者所有。
+本项目中使用的模型、音频及图片文件仅供展示，版权归原作者所有(Crypton Future Media / SEGA / DECO*27 / TME)。
+
+Fan-made project, assets belong to Crypton Future Media / SEGA / DECO*27 / TME
