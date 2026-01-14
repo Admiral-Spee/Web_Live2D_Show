@@ -55,7 +55,7 @@
 
 ## ⚙️ Configuration
 
-项目的主要配置位于`index.html`的`<script>`标签顶部和代码内部：
+项目的主要配置位于`Live2D.html`的`<script>`标签顶部和代码内部：
 
 ```javascript
 <!-- 1. PixiJS -->
